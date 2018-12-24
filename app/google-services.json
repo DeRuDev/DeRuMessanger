@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "569787954963",
+    "firebase_url": "https://derumessenger.firebaseio.com",
+    "project_id": "derumessenger",
+    "storage_bucket": "derumessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569787954963:android:755856a5f1673c2d",
+        "android_client_info": {
+          "package_name": "com.mderu.derumessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569787954963-546bn49ib79vf2kj3nct3q2ej3l13vrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8ERCQqr-CoKyCuG1Hc3FdxpoSVcLycI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
